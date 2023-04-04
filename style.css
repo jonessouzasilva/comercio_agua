@@ -27,7 +27,7 @@ header{
     z-index: 1000;
 }
 .logo{
-    max-width: 70px;
+    max-width: 50px;
 }
 .nav{
     display: flex;
@@ -97,4 +97,12 @@ header{
     font-size: 2em;
     margin-top: 40px;
     margin-left: 50px;
+}
+.fa{
+    color: #00704a;
+    padding: 10px;
+}
+.fa:hover{
+    transform: scale(1.2);
+    transition: all .3s;
 }
