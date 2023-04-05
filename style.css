@@ -107,14 +107,14 @@ header{
     transition: all .3s;
 }
 .content .image{
-    width: 600px;
+    width: 100%;
     display: flex;
     justify-content: flex-end;
     padding-right: 50px;
     padding-top: 100px;
 }
 .content .image img{
-    max-width: 450px;
+    max-width: 100%;
 }
 
 @media (max-width: 991px){
