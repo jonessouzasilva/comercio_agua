@@ -128,17 +128,17 @@ header{
         max-width: 40px;
     }
     .content .image img{
-        max-width: 80%;
+        max-width: 100%;
     }
     .content{
         flex-direction: column;
         margin: 120px 0;
     }
     .content .text{
-        max-width: 80%;
+        max-width: 100%;
     }
     .content .text h2{
-        font-size: 2.5em;
+        font-size: 2.2em;
     }
     .social-media{
         font-size: 1.5em;
