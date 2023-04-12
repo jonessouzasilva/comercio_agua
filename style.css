@@ -116,6 +116,13 @@ header{
 .content .image img{
     max-width: 100%;
 }
+section .footer{
+    text-align: center;
+    padding: 25px;
+    padding: var(--text-color);
+    font-size: 15px;
+    letter-spacing: 1px;
+}
 
 @media (max-width: 991px){
     .main{
